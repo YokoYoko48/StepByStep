@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- โทนสีใหม่: Neon Cyberpunk (ไม่ซ้ำใครแน่นอน) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#7C4DFF</color> <!-- ม่วงนีออนหลัก -->
+    <color name="purple_700">#512DA8</color>
+    <color name="teal_200">#00E5FF</color>  <!-- ฟ้าไซเบอร์ -->
+    <color name="teal_700">#00B8D4</color>
+    <color name="black">#0B0F19</color>     <!-- พื้นหลังดำเข้มพิเศษ -->
+    <color name="white">#FFFFFFFF</color>
+</resources>
